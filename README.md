@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Acme Dashboard | Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is part of the Next.js official documentation. We used the main and fundamental Next.js features to build this interactive invoices dashboard.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
